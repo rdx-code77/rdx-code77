@@ -1,3 +1,8 @@
+Thank you for visiting my Page!
+
+Saikumar Srinivas
+_____________________________________________
+
 As a Software Developer/Data Analyst 💻📊, I am passionate about leveraging technology and data to solve complex problems and uncover actionable insights that drive business success 🚀. I thrive on building innovative solutions and collaborating with teams to develop tools and analytics that empower decision-making and create measurable impact.
 
 I am proficient in cutting-edge analysis technologies 🛠️, including Tableau, Power BI, Python, SQL, Excel, and Power Apps. As a 2nd-year Master's Student 🎓 at Clark University, pursuing a Master of Science in Data Analytics, I bring a strong academic foundation and practical expertise to every project I undertake.
